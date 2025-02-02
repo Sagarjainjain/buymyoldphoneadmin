@@ -1,0 +1,53 @@
+.admin-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.admin-container-card {
+    width: 500px;
+    height: 300px;
+    background-color: #343434;
+    border-radius: 10px;
+}
+.admin-container-card-header {
+    width: 100%;
+    padding: 15px 0;
+    text-align: center;
+}
+.admin_container-card-form form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1rem;
+}
+.admin_container-card-form-item {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.admin_container-card-form-item input {
+    padding: 8px 0 8px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: 0;
+    border: 1px solid lightgrey;
+}
+.admin_container-card-form button {
+    padding: 8px 0 8px 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    outline: 0;
+    border: 0;
+    background-color: cornflowerblue;
+}
+
+@media screen and (min-width: 100px) and (max-width: 500px) {
+    .admin-container-card {
+        width: 90%;
+    }
+    .admin_container-card-form form {
+        padding: 5px;
+    }
+}

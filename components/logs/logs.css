@@ -1,0 +1,27 @@
+.logs_container{
+    width: 80%;
+    height: 80%;
+    padding: 1rem;
+     background-color: #343434;
+     border-radius: 10px;
+}
+.logs_header-tabs {
+    display: flex;
+    gap: 10px;
+}
+.logs_header-tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.logs_header-tab p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 20px;
+    width: 20px; */
+
+font-size: 20px;
+    border-radius: 50%;
+}

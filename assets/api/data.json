@@ -1,0 +1,142 @@
+[
+  {
+    "userId": "U001",
+    "userEmail": "user1@example.com",
+    "userNumber": "1234567890",
+    "bidAmount": 500,
+    "dateOfBid": "2024-01-21"
+  },
+  {
+    "userId": "U002",
+    "userEmail": "user2@example.com",
+    "userNumber": "0987654321",
+    "bidAmount": 300,
+    "dateOfBid": "2024-01-20"
+  },
+  {
+    "userId": "U003",
+    "userEmail": "user3@example.com",
+    "userNumber": "1122334455",
+    "bidAmount": 400,
+    "dateOfBid": "2024-01-19"
+  },
+  {
+    "userId": "U004",
+    "userEmail": "user4@example.com",
+    "userNumber": "2233445566",
+    "bidAmount": 600,
+    "dateOfBid": "2024-01-18"
+  },
+  {
+    "userId": "U005",
+    "userEmail": "user5@example.com",
+    "userNumber": "3344556677",
+    "bidAmount": 250,
+    "dateOfBid": "2024-01-17"
+  },
+  {
+    "userId": "U006",
+    "userEmail": "user6@example.com",
+    "userNumber": "4455667788",
+    "bidAmount": 700,
+    "dateOfBid": "2024-01-16"
+  },
+  {
+    "userId": "U007",
+    "userEmail": "user7@example.com",
+    "userNumber": "5566778899",
+    "bidAmount": 320,
+    "dateOfBid": "2024-01-15"
+  },
+  {
+    "userId": "U008",
+    "userEmail": "user8@example.com",
+    "userNumber": "6677889900",
+    "bidAmount": 450,
+    "dateOfBid": "2024-01-14"
+  },
+  {
+    "userId": "U009",
+    "userEmail": "user9@example.com",
+    "userNumber": "7788990011",
+    "bidAmount": 550,
+    "dateOfBid": "2024-01-13"
+  },
+  {
+    "userId": "U010",
+    "userEmail": "user10@example.com",
+    "userNumber": "8899001122",
+    "bidAmount": 620,
+    "dateOfBid": "2024-01-12"
+  },
+  {
+    "userId": "U011",
+    "userEmail": "user11@example.com",
+    "userNumber": "9900112233",
+    "bidAmount": 480,
+    "dateOfBid": "2024-01-11"
+  },
+  {
+    "userId": "U012",
+    "userEmail": "user12@example.com",
+    "userNumber": "1011121314",
+    "bidAmount": 300,
+    "dateOfBid": "2024-01-10"
+  },
+  {
+    "userId": "U013",
+    "userEmail": "user13@example.com",
+    "userNumber": "1112131415",
+    "bidAmount": 530,
+    "dateOfBid": "2024-01-09"
+  },
+  {
+    "userId": "U014",
+    "userEmail": "user14@example.com",
+    "userNumber": "1213141516",
+    "bidAmount": 310,
+    "dateOfBid": "2024-01-08"
+  },
+  {
+    "userId": "U015",
+    "userEmail": "user15@example.com",
+    "userNumber": "1314151617",
+    "bidAmount": 400,
+    "dateOfBid": "2024-01-07"
+  },
+  {
+    "userId": "U016",
+    "userEmail": "user16@example.com",
+    "userNumber": "1415161718",
+    "bidAmount": 450,
+    "dateOfBid": "2024-01-06"
+  },
+  {
+    "userId": "U017",
+    "userEmail": "user17@example.com",
+    "userNumber": "1516171819",
+    "bidAmount": 350,
+    "dateOfBid": "2024-01-05"
+  },
+  {
+    "userId": "U018",
+    "userEmail": "user18@example.com",
+    "userNumber": "1617181920",
+    "bidAmount": 580,
+    "dateOfBid": "2024-01-04"
+  },
+  {
+    "userId": "U019",
+    "userEmail": "user19@example.com",
+    "userNumber": "1718192021",
+    "bidAmount": 650,
+    "dateOfBid": "2024-01-03"
+  },
+  {
+    "userId": "U020",
+    "userEmail": "user20@example.com",
+    "userNumber": "1819202122",
+    "bidAmount": 420,
+    "dateOfBid": "2024-01-02"
+  }
+]

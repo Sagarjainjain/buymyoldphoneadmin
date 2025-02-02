@@ -9,8 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@leenguyen/react-flip-clock-countdown": "^1.6.1",
+    "bcryptjs": "^2.4.3",
+    "file-loader": "^6.2.0",
+    "flipdown": "^0.3.2",
+    "mongoose": "^8.9.5",
+    "next": "15.1.4",
+    "next-auth": "^5.0.0-beta.25",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.4"
+    "react-flip-clock": "^1.0.4",
+    "react-icons": "^5.4.0",
+    "react-responsive-carousel": "^3.2.23"
   }
 }
